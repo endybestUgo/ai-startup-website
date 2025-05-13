@@ -45,6 +45,8 @@ With Git:
 ### 4. Commit & Push
 - Each developer committed their work to their branch.
 - They pushed their branches to the remote repository.
+![Alt Text](img/git_a.png)
+![Alt Text](img/git_b.png)
 
 ### 5. Pull Request & Merge
 - Tom submitted a pull request (PR) first and his branch was merged into `main`.
